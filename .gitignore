@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / SO
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ambientes e credenciais
+.env
+.env.*
+*.pem
+secrets.*
+
+# Arquivos temporários
+*.log
+*.tmp
+.cache/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Modelos grandes locais opcionais (mantemos o do results no repositório acadêmico)
+# results/*.joblib

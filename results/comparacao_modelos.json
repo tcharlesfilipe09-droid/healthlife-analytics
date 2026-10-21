@@ -1,0 +1,6 @@
+{
+  "melhor_modelo": "Random Forest",
+  "f1_teste": 0.9909,
+  "accuracy_teste": 0.991,
+  "caminho_modelo": "C:\\Users\\tchar\\OneDrive\\Área de Trabalho\\projeto alura\\healthlife_analytics\\results\\melhor_modelo.joblib"
+}
